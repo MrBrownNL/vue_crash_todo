@@ -1,4 +1,7 @@
-# vue_crash_todo
+# Vue crash course, creating a todo list
+
+## Youtube course
+See [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U).
 
 ## Project setup
 ```
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
