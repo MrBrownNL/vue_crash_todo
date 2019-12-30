@@ -4,6 +4,8 @@
 See [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U).
 <br><br>
 You can use the original code from [Brad Traversy](https://github.com/bradtraversy/vue_crash_todolist) or if you get stuck on something you can use any of the following branches to step into different parts of the course.
+<br><br>
+See the result on [Netlify](https://gallant-shaw-ffdb01.netlify.com/)
 
 ## Branches
 
