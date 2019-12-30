@@ -18,7 +18,7 @@
         },
         methods: {
             addTodo() {
-                if (this.title.trim().length == 0) return;
+                if (this.title.trim().length === 0) return;
                 const newTodo = {
                     title: this.title,
                     completed: false
